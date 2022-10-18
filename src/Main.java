@@ -56,6 +56,7 @@ public class Main {
             total1 = total1 + salary1;
             System.out.println("Месяц " + i6 + " , сумма накоплений равна " + total1 + " рублей!");
         }
+        System.out.println("Конец!");
 
 
     }
